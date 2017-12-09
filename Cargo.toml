@@ -1,0 +1,10 @@
+[package]
+name = "cargo_project"
+version = "0.1.0"
+authors = ["Lucas Baizer"]
+
+[dependencies]
+glium = "*"
+image = "*"
+nalgebra = "*"
+rand = "0.3"
